@@ -33,17 +33,14 @@
 **For Each Team Member:**
 - [ ] Verify Local by Flywheel installation
 - [ ] Clone moraqmen-wordpress-theme repository locally
-- [ ] Install required npm dependencies
-  ```bash
-  npm install
-  # Install Tailwind CSS
-  npm install -D tailwindcss postcss autoprefixer
-  ```
-- [ ] Verify WordPress 6.x+ installation in Local
-- [ ] Create .env file with local environment variables
-- [ ] Test that wp-cli works properly
-- [ ] Verify GitHub SSH key is configured
-- [ ] Pull latest code from main branch
+
+- [ ] - [ ] Install Moraqmen-Blocks plugin as mu-plugin dependency
+- [ ] - [ ] Verify WordPress 6.x+ installation in Local
+- [ ] - [ ] Create .env file with local environment variables
+- [ ] - [ ] Test that wp-cli works properly
+- [ ] - [ ] Verify GitHub SSH key is configured
+- [ ] - [ ] Pull latest code from main branch
+  
 
 ### 3. **Figma Design Review** [CRITICAL]
 **Owner:** Design Lead / Block Developer  
